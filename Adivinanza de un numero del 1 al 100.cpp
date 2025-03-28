@@ -48,6 +48,8 @@ int main(){
         std::cout << "\nAdivina el numero!!!!\n";
 
         std::cout << "\nLa maquina te dira si es menor o mayor el numero que pongas!!!\n";
+
+        intentos = 0;
         
         do{
             intentos = intentos + 1;
